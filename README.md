@@ -1,6 +1,6 @@
 # Customer Churn Prediction Project
 
-This repository contains a data science project focused on predicting customer churn using machine learning techniques. The project was developed as part of the technical application for the Beeline internship program.
+This repository contains a data science project focused on predicting customer churn using machine learning techniques. 
 
 ## Project Overview
 
