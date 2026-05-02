@@ -4,12 +4,12 @@ This repository contains a data science project focused on predicting customer c
 
 ## Project Overview
 
-The goal of this project was to predict customer churn in a telecommunications context. The dataset, named `tech_task_dataset.csv`, includes various features related to customer behavior and usage patterns.
+The goal of this project was to predict customer churn in a telecommunications context. The dataset, named `dataset.csv`, includes various features related to customer behavior and usage patterns.
 
 ## Project Structure
 
-- `tech_task_dataset.csv`: The dataset used for training and testing.
-- `tech_task_beeline.ipynb`: Jupyter Notebook file containing the code for data preprocessing, model training, evaluation, and exploratory data analysis (EDA).
+- `dataset.csv`: The dataset used for training and testing.
+- `churn_pred.ipynb`: Jupyter Notebook file containing the code for data preprocessing, model training, evaluation, and exploratory data analysis (EDA).
 - `README.md`: This README file providing an overview of the project.
 
 ## Model Performance
@@ -32,7 +32,7 @@ This project showcases the effectiveness of machine learning models in predictin
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Open the `tech_task_beeline.ipynb` Jupyter Notebook file to explore the project code.
+2. Open the `churn_pred.ipynb` Jupyter Notebook file to explore the project code.
 3. Run the notebook cells in sequence for data preprocessing, model training, and evaluation.
 4. Review the model evaluation results and visualizations within the notebook.
 
